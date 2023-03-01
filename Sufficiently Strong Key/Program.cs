@@ -67,7 +67,7 @@ namespace Sufficiently_Strong_Key
             {
                 Console.WriteLine(missingLenght);
             }
-
+            //test
         }
     }
 }
